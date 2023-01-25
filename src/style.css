@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cont {
+  width: 800px;
+  margin: 24px auto;
+}
+
+img {
+  width: 800px;
+}
+
+.heading {
+  color: #424242;
+  font-weight: 400;
+  text-align: center;
+  padding: 8px;
+}
+
+#car-list {
+  padding: 12px;
+  width: 100%;
+  color: #eee;
+  background: #424242;
+  border: none;
+}
+
+#car-list:focus {
+  outline: none;
+}
